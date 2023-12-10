@@ -1,6 +1,6 @@
 {
 
-    "name":"github action",
+    "name":"github-action",
     "version":"1.8.8",
     "main": "index.js",
     "repository": "github@github.com:Zainab1sadat/online-education-website.git",

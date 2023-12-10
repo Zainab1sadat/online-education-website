@@ -1,0 +1,15 @@
+{
+
+    "name":"github action",
+    "version":"1.8.8",
+    "main": "index.js",
+    "repository": "github@github.com:Zainab1sadat/online-education-website.git",
+    "scripts":{
+        "build":"echo 'build'",
+        "test": "node ./test/dummy.js"
+    },
+    "author": "Zainab",
+    "license":"MIT"
+
+
+}
